@@ -7,5 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 # html files
-/task/build/
-/task/out/
+/task/build/*
+/task/out/*
